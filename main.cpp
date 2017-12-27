@@ -7,6 +7,8 @@
 //#include "AnalizadorLexico.h"
 #include "AnalizadorSemantico.h"
 
+using namespace std;
+
 int main(){
     //AnalizadorLexico analizador;
     //AnalizadorSintactico analizador;
@@ -14,7 +16,7 @@ int main(){
 
     analizador.analiza();
 
-
+    cout<<"Press <ENTER> to continue...";
     cin.get();
 
     return EXIT_SUCCESS;
