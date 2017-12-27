@@ -1,3 +1,3 @@
 # MiniPython-Compiler
 
-This Mini Python Compiler genere code for the masm32.
+This Mini Python Compiler generate code for the masm32.
